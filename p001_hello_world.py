@@ -24,4 +24,4 @@ print(myvariable1,myvariable2)
 # Printing Hello World! using two variables - Method 2 using concatenate operator
 myvariable1 = "Hello"
 myvariable2 = "World!"
-print(myvariable1+' '+myvariable2)
+print(myvariable1 + ' ' + myvariable2)
