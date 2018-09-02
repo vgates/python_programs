@@ -1,7 +1,8 @@
-# Python program to check whether a number is prime or not
-# A positive integer which is only divisible by 1 and itself is known as prime number.
-# Example: 17 is a prime number because it is only divisible by 1 and 17 but
-# Example: 15 is not prime number because it is divisible by 1, 3, 5 and 15.
+# Python program to check whether a number is prime or not.
+
+# A positive integer which is only divisible by 1 and itself is known as a prime number.
+# Example: 17 is a prime number because it is only divisible by 1 and 17
+# Example: 15 is not a prime number because it is divisible by 1, 3, 5 and 15.
 
 
 # get the user input and store it in the variable number
