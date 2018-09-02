@@ -4,6 +4,8 @@
 # Python module is a normal python file which can store 
 # function, variable, classes, constants etc.
 
+# Reference link all the functions available in math 
+# module https://docs.python.org/3/library/math.html
 
 import math # imports math module
 
