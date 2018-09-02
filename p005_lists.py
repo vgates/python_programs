@@ -19,7 +19,3 @@ for a in evenList:
     if a%10 == 0:
         tensList.append(a)
 print(tensList)
-
-
-
-
